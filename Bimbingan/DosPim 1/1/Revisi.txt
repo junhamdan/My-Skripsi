@@ -1,0 +1,89 @@
+RUMUSAN MASALAH
+
+1. Bagaimana peran Sistem Pendukung Keputusan (SPK) dalam proses rekrutmen system engineer di PT Rackh Lintas Asia dapat meningkatkan efisiensi dan efektivitas seleksi kandidat? 
+
+2. Apakah implementasi metode ARAS dalam Sistem Pendukung Keputusan dapat membantu mengidentifikasi kriteria-kriteria kualifikasi yang paling krusial untuk menyeleksi calon system engineer secara objektif?
+
+3. Bagaimana penggunaan metode ARAS dalam Sistem Pendukung Keputusan dapat meningkatkan transparansi dan akuntabilitas dalam pengambilan keputusan rekrutmen di PT Rackh Lintas Asia?
+ 
+4. Bagaimana dampak penggunaan Sistem Pendukung Keputusan dengan pendekatan metode ARAS terhadap kemampuan PT. Rackh Lintas Asia dalam menarik dan mempertahankan bakat terbaik dalam industri teknologi informasi?
+
+
+		REVISI
+
+
+1. Bagaimana implementasi Metode ARAS dalam Sistem Pendukung Keputusan (SPK) untuk rekrutmen System Engineer di PT. Rackh Lintas Asia?
+   
+2. Bagaimana efektivitas Metode ARAS dalam meningkatkan proses seleksi dan pengambilan keputusan dalam rekrutmen System Engineer di PT. Rackh Lintas Asia dibandingkan dengan pendekatan tradisional yang digunakan sebelumnya?
+   
+3. Apakah adanya Sistem Pendukung Keputusan (SPK) dengan pendekatan Metode ARAS dapat mengurangi waktu yang diperlukan dalam proses seleksi dan rekrutmen System Engineer di PT. Rackh Lintas Asia?
+
+4. Apakah adanya Sistem Pendukung Keputusan (SPK) dengan pendekatan Metode ARAS dapat meningkatkan akurasi dalam pemilihan kandidat yang sesuai dengan kebutuhan posisi System Engineer di PT. Rackh Lintas Asia?
+
+
+========================================================================
+
+BATASAN MASALAH
+
+1. Penelitian difokuskan pada pengoptimalan prosedur sistem untuk meningkatkan efisiensi pemilihan system engineer di PT Rackh Lintas Asia dengan menggunakan metode ARAS.
+
+2. Penelitian mengaplikasikan metode ARAS dan mengintegrasikannya dengan sistem asesmen berbasis web untuk memberikan kerangka kerja yang lebih efisien dalam proses rekrutmen.
+
+3. Fokus penelitian terbatas pada PT Rackh Lintas Asia, khususnya dalam seleksi system engineer, memberikan analisis yang berlaku untuk konteks rekrutmen jabatan tersebut.
+
+4. Dengan menggunakan contoh data dari PT Rackh Lintas Asia, penelitian ini berusaha memberikan gambaran yang representatif terhadap proses rekrutmen perusahaan.
+
+
+		REVISI
+
+
+1. Lingkup Implementasi Metode ARAS: Batasan ini mencakup implementasi Metode ARAS secara khusus dalam Sistem Pendukung Keputusan (SPK) untuk rekrutmen System Engineer di PT. Rackh Lintas Asia. Ini mencakup proses instalasi, konfigurasi, dan pengembangan sistem serta pengujian dan validasi untuk memastikan kesesuaian dengan kebutuhan organisasi.
+
+2. Perbandingan dengan Pendekatan Tradisional: Batasan ini memfokuskan pada perbandingan efektivitas Metode ARAS dengan pendekatan rekrutmen tradisional yang telah digunakan sebelumnya oleh PT. Rackh Lintas Asia. Ini mencakup evaluasi terhadap kecepatan, biaya, dan akurasi dalam proses seleksi dan pengambilan keputusan.
+
+3. Waktu yang Diperlukan dalam Proses Seleksi: Batasan ini mencakup analisis terhadap waktu yang diperlukan dalam proses seleksi dan rekrutmen System Engineer dengan menggunakan Sistem Pendukung Keputusan (SPK) berbasis Metode ARAS. Ini juga melibatkan perbandingan waktu yang diperlukan dengan pendekatan tradisional yang telah digunakan sebelumnya.
+
+4. Akurasi Pemilihan Kandidat: Batasan ini melibatkan evaluasi terhadap akurasi dalam pemilihan kandidat yang dilakukan oleh Sistem Pendukung Keputusan (SPK) dengan pendekatan Metode ARAS. Ini mencakup penilaian terhadap sejauh mana SPK dapat memilih kandidat yang sesuai dengan kebutuhan posisi System Engineer di PT. Rackh Lintas Asia, serta perbandingannya dengan hasil pemilihan kandidat menggunakan pendekatan tradisional.
+
+
+========================================================================
+
+TUJUAN PENELITIAN
+
+1. Untuk meningkatkan efisiensi & akurasi seleksi system engineer melalui metode ARAS.
+2. Untuk menciptakan kerangka kerja efisien dengan metode ARAS dan sistem asesmen berbasis web.
+3. Untuk memberikan analisis khusus pada seleksi system engineer di PT Rackh Lintas Asia.
+4. Untuk memberikan gambaran representatif dengan menggunakan contoh data.
+
+
+
+	REVISI
+
+1. Untuk mengidentifikasi dan menganalisis implementasi Metode ARAS dalam Sistem Pendukung Keputusan (SPK) dalam rekrutmen System Engineer di PT. Rackh Lintas Asia.
+
+2. Untuk mengevaluasi efektivitas Metode ARAS dalam meningkatkan proses seleksi dan pengambilan keputusan dibandingkan dengan pendekatan tradisional.
+
+3. Untuk mengukur dampak adopsi SPK Metode ARAS terhadap pengurangan waktu dalam proses seleksi dan rekrutmen.
+
+4. Untuk menilai akurasi pemilihan kandidat oleh SPK Metode ARAS dan membandingkannya dengan pendekatan tradisional.
+
+
+========================================================================
+
+MANFAAT PENELITIAN
+
+1. Implementasi metode ARAS dan optimasi prosedur sistem di PT Rackh Lintas Asia diharapkan akan menghasilkan proses rekrutmen system engineer yang lebih efisien, memperpendek waktu seleksi, dan meningkatkan akurasi pemilihan kandidat.
+2. Penerapan metode ARAS dan integrasi dengan sistem asesmen berbasis web akan membantu menciptakan kerangka kerja yang lebih terstruktur dalam proses rekrutmen. Hal ini dapat memberikan keterbukaan dan transparansi yang lebih besar, memudahkan pemantauan dan evaluasi.
+3. Dengan Dengan fokus pada seleksi system engineer, penelitian ini diharapkan akan memberikan kontribusi signifikan terhadap peningkatan kualitas pemilihan karyawan di PT Rackh Lintas Asia. metode ARAS dapat membantu mengidentifikasi kandidat yang paling sesuai dengan kebutuhan perusahaan.
+4. Penggunaan contoh data yang representatif dari PT Rackh Lintas Asia dapat memberikan kontribusi nyata terhadap pengembangan praktek rekrutmen berbasis data. Temuan dari penelitian ini dapat menjadi landasan untuk peningkatan proses rekrutmen di perusahaan sejenis dalam industri teknologi informasi.
+
+		REVISI
+
+
+1. Penelitian ini dapat membantu PT. Rackh Lintas Asia dalam meningkatkan efisiensi proses rekrutmen System Engineer dengan mengimplementasikan Sistem Pendukung Keputusan (SPK) berbasis Metode ARAS. Dengan demikian, perusahaan dapat menghemat waktu dan sumber daya yang diperlukan dalam proses seleksi karyawan.
+
+2. Dengan menggunakan Metode ARAS dalam SPK, penelitian ini dapat membantu perusahaan untuk membuat keputusan rekrutmen yang lebih akurat dan tepat sesuai dengan kebutuhan posisi System Engineer. Hal ini dapat mengurangi risiko kesalahan dalam memilih kandidat yang tidak sesuai dengan profil pekerjaan yang diinginkan.
+
+3. Dengan adopsi SPK berbasis Metode ARAS, perusahaan dapat lebih mudah menemukan kandidat yang memiliki kemampuan dan kualifikasi yang sesuai dengan kebutuhan posisi System Engineer. Hal ini dapat berkontribusi pada peningkatan kualitas tenaga kerja perusahaan dan mengurangi risiko kesenjangan antara kebutuhan perusahaan dan kemampuan karyawan.
+
+4. Penelitian ini juga dapat membantu dalam pengembangan teknologi Sumber Daya Manusia (HRM) dengan mengintegrasikan Metode ARAS ke dalam Sistem Pendukung Keputusan. Dengan demikian, perusahaan dapat memperbarui dan meningkatkan sistem rekrutmen mereka sesuai dengan perkembangan teknologi dan kebutuhan bisnis yang terus berubah.
